@@ -1,6 +1,7 @@
 ## Hi there 👋
 [![Ashib's GitHub stats](https://github-readme-stats-2-dun.vercel.app/api?username=ahoque29&show=reviews&show_icons=true&theme=dark)](https://github-readme-stats-2-dun.vercel.app/api?username=ahoque29&show=reviews&show_icons=true&theme=dark)
 
+[![Ashib's GitHub stats](https://github-readme-stats-2-dun.vercel.app/api/top-langs/?username=ahoque29&theme=dark&layout=compact)](https://github-readme-stats-2-dun.vercel.app/api/top-langs/?username=ahoque29&theme=dark&layout=compact)
 <!--
 **ahoque29/ahoque29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
